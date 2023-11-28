@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Prism"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ParabolaEquation"},{"p":"<Unnamed>","l":"ParabolaEquationLogic"},{"p":"<Unnamed>","l":"ParabolaEquationRunner"},{"p":"<Unnamed>","l":"Prism"}];updateSearchResults();
